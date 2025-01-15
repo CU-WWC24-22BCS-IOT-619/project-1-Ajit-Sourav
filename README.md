@@ -46,8 +46,6 @@ Thumbstick:
 Thumbstick: 
 - left/right for switching pages
 
-## Demo
-[on Github Pages](https://michal-repo.github.io/web_vr_video_player/)
 
 ## Requirements
 
@@ -94,9 +92,6 @@ Supported tags:
 
 `_2D_360` - fisheye 360, not VR (one lens)
 
-### Extensions
-
-[Extensions](https://github.com/michal-repo/web_vr_video_player_extensions)
 
 ## Generating your own JSON file with video sources
 Player is using locally stored JSON file with video sources. It's configured in `index.html`, where you can provide your JSON file name:
